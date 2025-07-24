@@ -1,0 +1,18 @@
+{
+  "valid_credentials": [
+    {
+      "username": "will",
+      "password": "will"
+    }
+  ],
+  "invalid_credentials": [
+    {
+      "username": "wronguser",
+      "password": "will"
+    },
+    {
+      "username": "will",
+      "password": "wrongpass"
+    }
+    ]
+}
