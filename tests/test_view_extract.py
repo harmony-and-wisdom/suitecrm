@@ -22,4 +22,4 @@ class TestViewAccountsExtract:
 
         # Extract and save table
         file_path = view_page.extract_table_and_save()
-        print(f"\n✅ Data saved to {file_path}")
+        print(f"\nData saved to {file_path}")
